@@ -1,0 +1,8 @@
+@font-face {
+    font-family: "prata";
+    src: url(../src/fonts/Prata-Regular.ttf);
+}
+.font-prata {
+    font-family: "prata";
+}
+  
