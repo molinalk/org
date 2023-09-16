@@ -1,6 +1,6 @@
 import Header from './components/Header'
 import Organizacion from './components/Organizacion'
-//import Footer from './components/Footer'
+import Footer from './components/Footer'
 function App() {
 
   return (
@@ -9,7 +9,7 @@ function App() {
       <main>
         <Organizacion />
       </main>
-      {/* <Footer /> */}
+      <Footer />
     </>
   )
 }
