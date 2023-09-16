@@ -23,9 +23,3 @@ dist-ssr
 *.sln
 *.sw?
 
-# Ignorar configuraciones y archivos de desarrollo
-vite.config.js
-.eslintrc.cjs
-tailwind.config.js
-postcss.config.js
-
